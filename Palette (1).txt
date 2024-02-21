@@ -1,0 +1,36 @@
+/* CSS HEX */
+--curious-blue: #1c94d3;
+--catskill-white: #e2e9f1;
+--dove-gray: #656363;
+--tulip-tree: #e3b030;
+--cod-gray: #101010;
+--regent-gray: #8095a0;
+--martini: #b39fa1;
+--tower-gray: #b1b9be;
+--chino: #cdc3a1;
+
+
+/* SCSS HEX */
+$curious-blue: #1c94d3;
+$catskill-white: #e2e9f1;
+$dove-gray: #656363;
+$tulip-tree: #e3b030;
+$cod-gray: #101010;
+$regent-gray: #8095a0;
+$martini: #b39fa1;
+$tower-gray: #b1b9be;
+$chino: #cdc3a1;
+
+
+/* SCSS RGB */
+--curious-blue: rgba(28,148,211,1);
+--catskill-white: rgba(226,233,241,1);
+--dove-gray: rgba(101,99,99,1);
+--tulip-tree: rgba(227,176,48,1);
+--cod-gray: rgba(16,16,16,1);
+--regent-gray: rgba(128,149,160,1);
+--martini: rgba(179,159,161,1);
+--tower-gray: rgba(177,185,190,1);
+--chino: rgba(205,195,161,1);
+
+
